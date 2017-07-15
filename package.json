@@ -1,0 +1,12 @@
+{
+  "name": "micro-libs",
+  "version": "0.1.2",
+  "description": "microservices common libs",
+  "main": "index.js",
+  "author": "Franco Poveda",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "mongoose": "^4.8.4"
+  }
+}
