@@ -31,7 +31,7 @@ class Logger extends EventEmitter {
     }
 
     outputLog(data) {
-        console.log(data);
+        console.log(data.msg);
     }
 }
 
